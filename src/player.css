@@ -1,0 +1,288 @@
+/**
+ * Copyright © 2024 ZazerConer's
+ * Radio Stream Malaysia (Player CSS)
+ * https://github.com/ZazerConer/radio-stream-malaysia/blob/master/src/player.css
+ * Licensed under MIT (https://github.com/ZazerConer/radio-stream-malaysia/blob/master/LICENSE)
+**/
+
+@import url("../src/fonts/Rubik.css");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #dcdcdc;
+  font-size: 1em;
+  letter-spacing: 0.3px;
+  font-family: "Rubik", sans-serif;
+}
+html {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+body {
+  min-width: 100%;
+  min-height: 100%;
+  overflow: hidden;
+}
+#player {
+  position: fixed;
+  inset: 0;
+  margin: auto;
+  width: 100vw;
+  height: 100vh;
+  background: #fff;
+  overflow: hidden;
+}
+.nightmode {
+  filter: grayscale(100%);
+}
+#player .stream-name {
+  position: absolute;
+  inset: 20px auto auto 5%;
+  margin: auto;
+  font-size: 1em;
+  font-weight: 500;
+  z-index: 1;
+  pointer-events: none;
+  @media (min-width:600px) {
+    font-size: 1.1em;
+  }
+}
+#player .finder, 
+#player .status,
+#player .unknow {
+  position: absolute;
+  inset: 20px 5% auto auto;
+  margin: auto;
+  z-index: 1;
+}
+#player .status,
+#player .unknow {
+  visibility: hidden;
+}
+.info-stream {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: 90%;
+  height: 70%;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  @media (min-width:600px) {
+    display: flex;
+    justify-content: space-around;
+  }
+}
+#player .info-stream .img-logo {
+  width: 45vw;
+  height: 45vw;
+  margin: auto;
+  object-fit: contain;
+  border-radius: 10px;
+  background: #fff;
+  outline: 1.5px solid #555;
+  pointer-events: none;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -ms-transition: all .3s;
+  transition: all .3s;
+  -webkit-box-shadow: 0 0 0 100000px rgba(0,0,0,0.9);
+  -moz-box-shadow: 0 0 0 100000px rgba(0,0,0,0.9);
+  -ms-box-shadow: 0 0 0 100000px rgba(0,0,0,0.9);
+  box-shadow: 0 0 0 100000px rgba(0,0,0,0.9);
+  @media (min-width:600px) {
+    width: 18vw;
+    height: 18vw;
+  }
+}
+#player .info-stream .img-logo::before {
+  content: attr(alt);
+  width: 45vw;
+  height: 45vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: currentColor;
+  background: #222222;
+  @media (min-width:600px) {
+    width: 18vw;
+    height: 18vw;
+  }
+}
+#player .info-stream .data {
+  width: 100%;
+  height: 150%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  @media (min-width:600px) {
+    width: 50%;
+    height: 80%;
+  }
+}
+#player .info-stream .data #description {
+  font-size: 1em;
+  font-weight: 500;
+  text-align: center;
+  line-height: 1.5;
+  @media (min-width:600px) {
+    font-size: 1.1em;
+  }
+}
+#player .btn-play,
+#player .btn-pause {
+  position: absolute;
+  inset: auto 0 50px 0;
+  margin: auto;
+  visibility: hidden;
+}
+#player .btn-mute,
+#player .btn-unmute {
+  position: absolute;
+  inset: auto auto 45px 10%;
+  margin: auto;
+  border-radius: 4px;
+}
+#player .btn-unmute {
+  visibility: hidden;
+}
+#player .btn-mute:active,
+#player .btn-unmute:active {
+  color: #fff;
+  background: #555;
+}
+#player #container-list {
+  position: absolute;
+  inset: 0 auto 0 0;
+  margin: auto;
+  width: 0%;
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  background: rgba(0,0,0,0.9);
+  overflow-x: hidden;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  -webkit-transition: width .5s;
+  -moz-transition: width .5s;
+  -ms-transition: width .5s;
+  transition: width .5s;
+}
+#player #container-list::-webkit-scrollbar {
+  width: 5px;
+  height: 0px;
+}
+#player #container-list::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  background: transparent;
+}
+#player #container-list::-webkit-scrollbar-thumb {
+  background: currentColor;
+}
+#player #container-list::-webkit-scrollbar-track:horizontal {
+  display: none;
+}
+#player #container-list::-webkit-scrollbar-corner {
+  background: transparent;
+}
+#player #container-list .content-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  -webkit-transition: all .2s;
+  -moz-transition: all .2s;
+  -ms-transition: all .2s;
+  transition: all .2s;
+}
+#player #container-list .content-list span {
+  width: 100%;
+  padding-left: 10px;
+  font-size: 0.8em;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  pointer-events: none;
+  @media (min-width:1000px) {
+    font-size: 1em;
+  }
+}
+#player #container-list .content-list img {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  font-size: 0.6em;
+  font-weight: 400;
+  border-radius: 4px;
+  outline: 0.6px solid #555;
+  background: #fff;
+  pointer-events: none;
+  @media (min-width:1000px) {
+    width: 55px;
+    height: 55px;
+  }
+}
+#player #container-list .content-list img::before {
+  content: attr(alt);
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: currentColor;
+  background: #222;
+  @media (min-width:1000px) {
+    width: 55px;
+    height: 55px;
+  }
+}
+#player #container-list .content-list:hover {
+  -webkit-box-shadow: inset 0 0 0 1.2px currentColor;
+  -moz-box-shadow: inset 0 0 0 1.2px currentColor;
+  -ms-box-shadow: inset 0 0 0 1.2px currentColor;
+  box-shadow: inset 0 0 0 1.2px currentColor;
+}
+#player #container-list .content-list:active {
+  opacity: 0.5;
+}
+#player .btn-list {
+  position: fixed;
+  inset: auto 10% 45px auto;
+  margin: auto;
+  width: 30px;
+  height: 30px;
+  border-radius: 4px;
+  -webkit-transition: all .2s;
+  -moz-transition: all .2s;
+  -ms-transition: all .2s;
+  transition: all .2s;
+}
+#player .btn-list:active {
+  color: #fff;
+  background: #555;
+}
+.show-popup {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: fit-content;
+  height: fit-content;
+  padding: 8px 12px;
+  display: inline-block;
+  border-radius: 6px;
+  font-size: 0.9em;
+  font-weight: 500;
+  letter-spacing: 0.2px;
+  color: currentColor;
+  background: #292929;
+}
