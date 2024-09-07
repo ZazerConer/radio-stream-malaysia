@@ -1,0 +1,466 @@
+# Radio Stream Malaysia https://github.com/ZazerConer/radio-stream-malaysia
+# https://github.com/ZazerConer/radio-stream-malaysia/blob/master/playlist.m3u
+
+#EXTM3U
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ERA" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/era.jpg", ERA
+https://stream.rcs.revma.com/crec9cmbv4uvv/4_rqzizbwd7wu801/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ERA (Sabah)" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/era-sabah.png", ERA (Sabah)
+https://stream.rcs.revma.com/4p3nqmmbv4uvv/13_1e1tetlfpfj7o01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ERA (Sarawak)" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/era-sarawak.png", ERA (Sarawak)
+https://stream.rcs.revma.com/bkqfqkrbv4uvv/2_cwdt35suac7q01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ERA Nusantera" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/era-nusantera.png", ERA Nusantera
+https://stream.rcs.revma.com/sgzunsw711uvv/2_h0tn5k0fi5dk01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ERA Flow" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/era-flow.png", ERA Flow
+https://stream.rcs.revma.com/7g70h6v711uvv/6_1cjmq9sk8lezs01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ERA Cintan" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/era-cintan.png", ERA Cintan
+https://stream.rcs.revma.com/0z5mdyv711uvv/7_1lbn2jrupc1dp01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ERA K-Hit" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/era-khit.png", ERA K-Hit
+https://stream.rcs.revma.com/m1hzxaw711uvv/7_1lseh2jnqttx301/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ERA Throwbaek" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/era-throwbaek.png", ERA Throwbaek
+https://stream.rcs.revma.com/uq3kmtw711uvv/5_n32babbf8geq01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ERA Nurock" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/era-nurock.png", ERA Nurock
+https://stream.rcs.revma.com/4fe3smw711uvv/6_1f0gua35b702d01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="SINAR" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/sinar.jpg", SINAR
+https://stream-eu-a.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="SINAR Rock Kapak" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/sinar-rock.png", SINAR Rock Kapak
+https://stream-eu-a.rcs.revma.com/rz43weh811uvv/38_lwj92qdqradk01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="SINAR Jiwang" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/sinar-jiwang.png", SINAR Jiwang
+https://stream-eu-a.rcs.revma.com/5s38zah811uvv/68_3ff8k7870ke801/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="SINAR Irama 70'" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/sinar-irama70.png", SINAR Irama 70'
+https://stream-eu-a.rcs.revma.com/bb4ey1g811uvv/49_k1nayd1txhif01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="SINAR Irama 80'" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/sinar-irama80.png", SINAR Irama 80'
+https://stream-eu-a.rcs.revma.com/xdz7f5g811uvv/68_1pxky7ia6kr2h01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="SINAR IraMalaysia" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/sinar-iramalaysia.png", SINAR IraMalaysia
+https://stream-eu-a.rcs.revma.com/mm13z8g811uvv/57_m5qwugbgh2d701/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="SINAR I-Musik" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/sinar-imusik.png", SINAR I-Musik
+https://stream-eu-a.rcs.revma.com/m0mha6g811uvv/3_9fekhebb81qw01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="SINAR Sinema" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/sinar-sinema.png", SINAR Sinema
+https://stream-eu-a.rcs.revma.com/h67e7gh811uvv/67_1h6oefm22wue501/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="SINAR Pop Yeh Yeh" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/sinar-popyehyeh.png", SINAR Pop Yeh Yeh
+https://stream-eu-a.rcs.revma.com/1scz4dh811uvv/49_xtette8x8pni01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="SURIA FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/suriafm.jpg", SURIA FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FM.mp3
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Hot FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/hotfm.jpg", Hot FM
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Kool 101" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/kool101.jpg", Kool 101
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Molek FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/molekfm.jpg", Molek FM
+https://mediaprima.rastream.com/mediaprima-molekfm
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Fly FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/flyfm.jpg", Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Eight FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/eightfm.jpg", Eight FM
+https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ZAYAN" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/zayan.jpg", ZAYAN
+https://stream.rcs.revma.com/7ww2a4tbv4uvv/7_1sxn09jf2b7kp01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ZAYAN Nasyeed" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/zayan-nasyeed.png", ZAYAN Nasyeed
+https://stream.rcs.revma.com/0q89dxh811uvv/16_abj203u1zora01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ZAYAN Hawa Tunes" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/zayan-hawatunes.png", ZAYAN Hawa Tunes
+https://stream.rcs.revma.com/9e7savh811uvv/15_14bmkb87meku301/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ZAYAN Surah" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/zayan-surah.png", ZAYAN Surah
+https://stream.rcs.revma.com/2uuaayh811uvv/2_mjyl8p27stg101/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ZAYAN Terjemah" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/zayan-terjemah.png", ZAYAN Terjemah
+https://stream.rcs.revma.com/dramduh811uvv/7_8foywg1bspqh01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="GEGAR" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/gegar.jpg", GEGAR
+https://stream.rcs.revma.com/cn0zcqsbv4uvv/2_1tojr5u31ldjo01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="GEGAR Hindi Power" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/gegar-hindipower.png", GEGAR Hindi Power
+https://stream.rcs.revma.com/ggn4nww711uvv/7_ppasje7g3tam01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="GEGAR Tradisi" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/gegar-tradisi.png", GEGAR Tradisi
+https://stream.rcs.revma.com/ad2y31w711uvv/16_y2wmz3h0dyq401/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="GEGAR Hoh Btabuh" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/gegar-hohbtabuh.png", GEGAR Hoh Btabuh
+https://stream.rcs.revma.com/5u674yw711uvv/3_b3iuxi1yoeyk01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="GEGAR Maghi Gelek" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/gegar-maghigelek.png", GEGAR Maghi Gelek
+https://stream.rcs.revma.com/97gya1w711uvv/7_xhf0d00qx5m201/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="RAKITA 107.9" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/rakita.png", RAKITA 107.9
+https://22283.live.streamtheworld.com/RAKITA_SC
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Best FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/bestfm.png", Best FM
+https://stream.rcs.revma.com/h34x4kgg9hhvv.m4a
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Manis FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/manisfm.png", Manis FM
+https://stream.rcs.revma.com/nzgauqq1v7zuv.m4a
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Nasional FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/nasionalfm.png", Nasional FM
+https://22243.live.streamtheworld.com/NASIONAL_FM.mp3
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Radio Klasik FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/radioklasikfm.png", Radio Klasik FM
+https://28093.live.streamtheworld.com/RADIO_KLASIK.mp3
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Minnal FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/minnalfm.png", Minnal FM
+https://28093.live.streamtheworld.com/MINNAL_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Asyik FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/asyikfm.png", Asyik FM
+https://22253.live.streamtheworld.com/ASYIK_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Ai FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/aifm.png", Ai FM
+https://22253.live.streamtheworld.com/AI_FMAAC_SC
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="TraXX FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/traxxfm.png", TraXX FM
+https://22273.live.streamtheworld.com/TRAXX_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Muzik FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/muzikfm.jpg", Muzik FM
+https://listen.radioking.com/radio/663445/stream/727324
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ASTRO AWANI" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/awani.png", ASTRO AWANI
+https://d37ey7ubht2hh2.cloudfront.net/out/v1/2d4a3d04aa404f3f8860da4a3ae25817/index.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Radio BBest SAKBA" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/radiobbest.jpg", Radio BBest SAKBA
+https://rlbbest.radioca.st/stream
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="RADIOROSAK FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/radiorosak.jpg", RADIOROSAK FM
+https://radiorosak.radioca.st/stream
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Gegar Muzik FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/gegarmuzikfm.jpg", Gegar Muzik FM
+https://usa3.fastcast4u.com/proxy/gegarmuzikfm?mp=/1
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Amboi FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/amboifm.webp", Amboi FM
+https://stream.zeno.fm/555kr7upam0uv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="BINTANG fm" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/bintangfm.webp", BINTANG fm
+https://stream.zeno.fm/1p0tmcfqq68uv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="EXSTAR RADIO FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/exstarradiofm.webp", EXSTAR RADIO FM
+https://stream.zeno.fm/ds7zx70ayf9uv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Melayu FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/melayufm.webp", Melayu FM
+https://stream.zeno.fm/27umg0rw808uv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Melayu Klasik" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/melayuklasik.webp", Melayu Klasik
+https://stream.zeno.fm/4s44thh7yf9uv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="NADI FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/nadifm.webp", NADI FM
+https://stream.zeno.fm/73lqmdegbwbuv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Rock-Rock Kapak Lama" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/rockkapaklama.webp", Rock-Rock Kapak Lama
+https://stream.zeno.fm/q6xy0didftcvv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Rock Kapak terbaik sepanjang zaman" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/slowrock90.webp", Rock Kapak terbaik sepanjang zaman
+https://stream.zeno.fm/hiut6cwfoneuv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Rockapak.FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/rockapakfm.webp", Rockapak.FM
+https://stream.zeno.fm/aklrahowzzdtv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="IRadio KuasaDimensi" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/kdimensi.webp", IRadio KuasaDimensi
+https://stream.zeno.fm/vfenq4seprhvv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syokfm.webp", Syok FM
+https://stream.zeno.fm/993m1qbrtbruv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="IramaFM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/iramafm.webp", IramaFM
+https://stream.zeno.fm/969trb91afhvv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="CTDK Music" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/ctdkmusic.webp", CTDK Music
+https://stream.zeno.fm/p9zhhf6gachvv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="AqFad Radio" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/aqfadradio.webp", AqFad Radio
+https://stream.zeno.fm/92t6ctpayf9uv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="WanzoxMy.FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/wanzoxmyfm.webp", WanzoxMy.FM
+https://stream.zeno.fm/gbq27z62qy8uv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Radio MAB" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/radiomab.webp", Radio MAB
+https://stream.zeno.fm/qb5q7a3r8k0uv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="CHEMOR FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/chemorfm.webp", CHEMOR FM
+https://stream.zeno.fm/ph46tt5v7k0uv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="CHEMOR FM 80 90" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/chemorfm8090.webp", CHEMOR FM 80 90
+https://stream.zeno.fm/23zbrwsr8k0uv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="CHEMOR FM DANGDUT MANIA" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/chemorfmdangdutmania.webp", CHEMOR FM DANGDUT MANIA
+https://stream.zeno.fm/07wm0kur8k0uv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="XcitedFM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/xcitedfm.webp", XcitedFM
+https://stream.zeno.fm/mnau6k172rhvv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="J-Rock FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/jrockfm.webp", J-Rock FM
+https://stream.zeno.fm/qd4ceh92kb3vv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Lejen FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/lejenfm.webp", Lejen FM
+https://stream.zeno.fm/nez002cetv8uv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="RE_PLAY TikTok Hits" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/replaytiktokhits.webp", RE_PLAY TikTok Hits
+https://stream.zeno.fm/zhsy7rmbyf9uv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="PuchongRadio" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/puchongradio.webp", PuchongRadio
+https://stream.zeno.fm/oeu0bm7ljnfvv
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="BFM 89.9" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/bfm-89.9.png", BFM 89.9
+https://28103.live.streamtheworld.com/BFMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="HITZ" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/hitz.jpg", HITZ
+https://stream.rcs.revma.com/488kt4sbv4uvv/8_onj1r77zxjbh01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="HITZ TikTok" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/hitz-tiktok.png", HITZ TikTok
+https://stream.rcs.revma.com/4f3eyhz711uvv/3_je2t2smnzus701/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="HITZ Dance" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/hitz-dance.png", HITZ Dance
+https://stream.rcs.revma.com/h580b8x711uvv/7_15q6rkq4az52q01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="HITZ Urban" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/hitz-urban.png", HITZ Urban
+https://stream.rcs.revma.com/yvq1hpz711uvv/4_mvrogqljvllj01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="HITZ Throwback" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/hitz-throwback.png", HITZ Throwback
+https://stream.rcs.revma.com/yycxhcz711uvv/14_1fxt3ho995kwx01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="HITZ Chillest" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/hitz-chillest.png", HITZ Chillest
+https://stream.rcs.revma.com/p4cqmqx711uvv/1_15he1xadqw9ub01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="HITZ KPOP" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/hitz-kpop.png", HITZ KPOP
+https://stream.rcs.revma.com/nxcsfey711uvv/3_ogzw7y19hnyl01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="MIX" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/mix.jpg", MIX
+https://stream.rcs.revma.com/v5pq3htbv4uvv/6_lrm6wj45jezi01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Mix 2000's" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/mix-2000.png", Mix 2000's
+https://stream.rcs.revma.com/zd54yee811uvv/9_dvv1dab2gr8301/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="MIX 90's Mix Tape" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/mix-tape.png", MIX 90's Mix Tape
+https://stream.rcs.revma.com/k9s688d811uvv/5_1gmsgvq1276sv01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="MIX Lovesong" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/mix-lovesong.png", MIX Lovesong
+https://stream.rcs.revma.com/hy2hmne811uvv/7_u7ycpkmtpl7j01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="LITE" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/lite.jpg", LITE
+https://stream.rcs.revma.com/bn4ex8sbv4uvv/16_c6yyid48a2f801/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="LITE your 70's & 80's Favourites" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/lite-7080.png", LITE your 70's & 80's Favourites
+https://stream.rcs.revma.com/axkpyf8711uvv/7_u2hb6zt64m001/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="LITE Lovesongs" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/lite-lovesongs.png", LITE Lovesongs
+https://stream.rcs.revma.com/08ztvm8711uvv/15_1i35sl0nrxyqq01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="LITE Acoustic" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/lite-acoustic.png", LITE Acoustic
+https://stream.rcs.revma.com/mdnf6q8711uvv/13_4zimpre347u101/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok Classic Rock" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-classicrock.png", Syok Classic Rock
+https://stream.rcs.revma.com/fk3507vbv4uvv/15_k9j19top4jtp01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok Osai" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-osai.png", Syok Osai
+https://stream.rcs.revma.com/60s783vbv4uvv/7_ljx2zy02jmuy01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok India Beat" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-indiabeat.png", Syok India Beat
+https://stream.rcs.revma.com/hrcdg9ubv4uvv/14_mw5kpyrh13h201/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok Opus" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-opus.png", Syok Opus
+https://stream.rcs.revma.com/aqvp4yvbv4uvv/12_vbdir3vgk3dk01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok Jazz" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-jazz.png", Syok Jazz
+https://stream.rcs.revma.com/c718dfvbv4uvv/16_1eoamgnwwsq0h01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok Gold" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-gold.png", Syok Gold
+https://stream.rcs.revma.com/fxq2n9tbv4uvv/6_d53ys2i41e3x01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok Kenyalang" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-kenyalang.png", Syok Kenyalang
+https://stream.rcs.revma.com/qyg9zmvbv4uvv/4_1piy5x0tsan5t01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok Bayu" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-bayu.png", Syok Bayu
+https://stream.rcs.revma.com/ywpe7mqb54uvv/11_dm0nbovarel401/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok OST" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-ost.png", Syok OST
+https://stream.rcs.revma.com/h67e7gh811uvv/6_mq5osoxh1e3x02/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok Jom Karok" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-jomkarok.png", Syok Jom Karok
+https://stream.rcs.revma.com/dmwz90v711uvv/5_98s0a2j9n5ci02/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok Indie Vibes" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-indievibes.png", Syok Indie Vibes
+https://stream.rcs.revma.com/qp67k3v711uvv/1_1n78hcj32pdof02/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok Feel Good" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-feelgood.png", Syok Feel Good
+https://stream.rcs.revma.com/vm61pxz711uvv/6_w62hnd1nims001/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok Fresh Hits" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-freshhits.png", Syok Fresh Hits
+https://stream.rcs.revma.com/u1kxmkz711uvv/4_1u7q7hlo0asac02/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok Headbangers" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-headbangers.png", Syok Headbangers
+https://stream.rcs.revma.com/e2xkc1e811uvv/2_4d90p8t330s402/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok Relaxing Music" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-relaxingmusic.png", Syok Relaxing Music
+https://stream.rcs.revma.com/54g0f0e811uvv/9_1v9pcfzrbap4d01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok 有嘻哈说唱" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-hiphoprap.png", Syok 有嘻哈说唱
+https://stream.rcs.revma.com/dqc04fx711uvv/3_14r4vi8y91k1z02/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Syok 粤语K歌" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-cantonesekaraoke.png", Syok 粤语K歌
+https://stream.rcs.revma.com/dd3nf88711uvv/6_dmkqfjg1els702/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="MY" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/my.jpg", MY
+https://stream.rcs.revma.com/hc3unrtbv4uvv/6_op3aem4d8b8p01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="MY - Drop The Beat" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/my-upbeat.png", MY - Drop The Beat
+https://stream.rcs.revma.com/r9s5n7e811uvv/6_1jlc6gdtddi6q01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="MY - 最流行" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/my-pop.png", MY - 最流行
+https://stream.rcs.revma.com/84qe3ve811uvv/1_y6m8t0va76gr01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="MY - 卡拉唱不完" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/my-kara.png", MY - 卡拉唱不完
+https://stream.rcs.revma.com/bk3zxpe811uvv/15_kvnf4e7fwy0v01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="MY - LOVE UU" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/my-love.png", MY - LOVE UU
+https://stream.rcs.revma.com/rp0bsse811uvv/5_d9am1m8s8q0o01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="MELODY" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/melody.jpg", MELODY
+https://stream.rcs.revma.com/2u1n6dtbv4uvv/11_mn6dsbmuv0l201/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="MELODY - 爱的专属区" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/melody-love.png", MELODY - 爱的专属区
+https://stream.rcs.revma.com/7xatqr9711uvv/9_9k00zmp5cj7d01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="MELODY - 影视歌曲专属区" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/melody-ost.png", MELODY - 影视歌曲专属区
+https://stream.rcs.revma.com/8axr3x9711uvv/6_1brz2xdahyzij01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="MELODY - 经典90专属区" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/melody-90.png", MELODY - 经典90专属区
+https://stream.rcs.revma.com/hg8dtm9711uvv/1_1xal7xn5ftj2801/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="MELODY - 经典70 & 80专属区" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/melody-7080.png", MELODY - 经典70 & 80专属区
+https://stream.rcs.revma.com/3keq8g9711uvv/12_ssg9sptm83wv02/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="GOXUAN" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/goxuan.png", GOXUAN
+https://stream.rcs.revma.com/xt9nhzsbv4uvv/9_1rky3el95h9qc01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="GOXUAN - 中文最Trending" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/goxuan-trending.png", GOXUAN - 中文最Trending
+https://stream.rcs.revma.com/mzrrzgx711uvv/2_1gadqvzqgzqrn01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="GOXUAN Owh! Kpop!" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/goxuan-gokpop.png", GOXUAN Owh! Kpop!
+https://stream.rcs.revma.com/d54qr8w711uvv/3_1hdeyzjhhtylq01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="GOXUAN Emo so what?" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/goxuan-goemo.png", GOXUAN Emo so what?
+https://stream.rcs.revma.com/xyva2dx711uvv/8_vxyrxgjycymf01/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="998 FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/998.png", 998 FM
+https://28093.live.streamtheworld.com/988_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="RAAGA" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/raaga.jpg", RAAGA
+https://stream.rcs.revma.com/1ut6qwtbv4uvv/10_4a99bfpystc102/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="RAAGA IsaiMazhai" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/raaga-isaimazhai.png", RAAGA IsaiMazhai
+https://stream.rcs.revma.com/3gh3gyf811uvv/16_85vvjk6aivkk02/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="RAAGA Puthu Varavu" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/raaga-puthuvaravu.png", RAAGA Puthu Varavu
+https://stream.rcs.revma.com/8bk6hsf811uvv/1_1ri2uexj5bla702/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="RAAGA Evergreen 80's" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/raaga-evergreen80.png", RAAGA Evergreen 80's
+https://stream.rcs.revma.com/c9wuegf811uvv/13_1brxj6a4zcnk02/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="RAAGA 90's Hits" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/raaga-90hits.png", RAAGA 90's Hits
+https://stream.rcs.revma.com/n1f3tpf811uvv/14_mi283vf48cl602/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="RAAGA Nambe Area" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/raaga-nambearea.png", RAAGA Nambe Area
+https://stream.rcs.revma.com/acrte1f811uvv/9_7irmeytgjqpu02/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="AR Rahman‘s Timeless Hits!" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/syok-arrahman.png", AR Rahman‘s Timeless Hits!
+https://stream.rcs.revma.com/eeugdaz711uvv/10_1p0s4rqww4ues02/playlist.m3u8
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="KL FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/klfm.png", KL FM
+https://28163.live.streamtheworld.com/KL_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Mutiara FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/mutiarafm.png", Mutiara FM
+https://28163.live.streamtheworld.com/MUTIARA_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Perlis FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/perlisfm.png", Perlis FM
+https://22283.live.streamtheworld.com/PERLIS_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Kedah FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/kedahfm.png", Kedah FM
+https://22283.live.streamtheworld.com/KEDAH_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Perak FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/perakfm.png", Perak FM
+https://28103.live.streamtheworld.com/PERAK_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Selangor FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/selangorfm.png", Selangor FM
+https://28103.live.streamtheworld.com/SELANGOR_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Negeri FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/negerifm.png", Negeri FM
+https://22243.live.streamtheworld.com/NEGERI_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Johor FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/johorfm.png", Johor FM
+https://22283.live.streamtheworld.com/JOHOR_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Melaka FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/melakafm.png", Melaka FM
+https://28153.live.streamtheworld.com/MELAKA_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Terengganu FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/terengganufm.png", Terengganu FM
+https://22243.live.streamtheworld.com/TERENGGANU_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Kelantan FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/kelantanfm.png", Kelantan FM
+https://25093.live.streamtheworld.com/KELANTAN_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Pahang FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/pahangfm.png", Pahang FM
+https://28093.live.streamtheworld.com/PAHANG_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Sabah FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/sabahfm.png", Sabah FM
+https://28103.live.streamtheworld.com/SABAH_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Sarawak FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/sarawakfm.png", Sarawak FM
+https://22253.live.streamtheworld.com/SARAWAK_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Langkawi FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/langkawifm.png", Langkawi FM
+https://28163.live.streamtheworld.com/LANGKAWI_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Sabah V FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/sabahvfm.png", Sabah V FM
+https://28103.live.streamtheworld.com/SABAH_VFMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Keningau FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/keningaufm.png", Keningau FM
+https://22273.live.streamtheworld.com/KENINGAU_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Sandakan FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/sandakanfm.png", Sandakan FM
+https://28163.live.streamtheworld.com/SANDAKAN_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Tawau FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/tawaufm.png", Tawau FM
+https://22253.live.streamtheworld.com/TAWAU_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Labuan FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/labuanfm.png", Labuan FM
+https://22283.live.streamtheworld.com/LABUAN_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Wai FM Iban" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/waifm.png", Wai FM Iban
+https://28103.live.streamtheworld.com/WAI_FM_IBANAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Red FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/redfm.png", Red FM
+https://28103.live.streamtheworld.com/RED_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Limbang FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/limbangfm.png", Limbang FM
+https://22273.live.streamtheworld.com/LIMBANGAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Miri FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/mirifm.png", Miri FM
+https://28163.live.streamtheworld.com/MIRI_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Sibu FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/sibufm.png", Sibu FM
+https://22253.live.streamtheworld.com/SIBU_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Sri Aman FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/sriamanfm.png", Sri Aman FM
+https://28103.live.streamtheworld.com/SRIAMAN_FMAAC.aac
+
+#EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="Bintulu FM" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/bintulufm.png", Bintulu FM
+https://22253.live.streamtheworld.com/BINTULU_FMAAC.aac
