@@ -1,7 +1,6 @@
+#EXTM3U
 # Radio Stream Malaysia https://github.com/ZazerConer/radio-stream-malaysia
 # https://github.com/ZazerConer/radio-stream-malaysia/blob/master/playlist.m3u
-
-#EXTM3U
 
 #EXTINF:-1 tvg-radio="true" group-title="Radio Malaysia" tvg-name="ERA" tvg-logo="https://raw.githubusercontent.com/ZazerConer/radio-stream-malaysia/master/stream/images/era.jpg", ERA
 https://stream.rcs.revma.com/crec9cmbv4uvv/4_rqzizbwd7wu801/playlist.m3u8
