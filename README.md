@@ -2,21 +2,25 @@
 
 Senarai main stesen radio di Malaysia yang boleh dimainkan ke **IPTV**.
 
-<hr>
+<br>
 
 ### Strim
 
-Salin pautan **M3U** ini
+Salin pautan URL (**M3U**)
 
 ```url
 https://zazerconer.github.io/radio-stream-malaysia/playlist.m3u
 ```
 
-dan tampal pautan ke URL pemain IPTV anda, atau anda boleh mendengar terus di [Radio Stream Malaysia](https://zazerconer.github.io/radio-stream-malaysia/).
+Tampal pautan URL ke pemain IPTV, atau anda boleh mendengar terus di [Radio Stream Malaysia](https://zazerconer.github.io/radio-stream-malaysia/).
+
+<br>
 
 ### Penerangan
 
 Jika anda ingin membuat **Radio Stream** anda sendiri sila `clone` repositori ini.
+
+<br>
 
 **HTTPS**
 
@@ -36,21 +40,27 @@ git@github.com:ZazerConer/radio-stream-malaysia.git
 gh repo clone ZazerConer/radio-stream-malaysia
 ```
 
-atau
-
-**Fork** [radio-stream-malaysia](https://github.com/ZazerConer/radio-stream-malaysia/fork)
+<br>
 
 atau
 
-**Muat turun** [Fail](https://github.com/ZazerConer/radio-stream-malaysia/archive/refs/heads/master.zip)
+**Fork** > [radio-stream-malaysia](https://github.com/ZazerConer/radio-stream-malaysia/fork)
+
+atau
+
+**Muat turun** > [(zip)](https://github.com/ZazerConer/radio-stream-malaysia/archive/refs/heads/master.zip)
 
 <br>
+<hr>
 
 Anda bebas mengubah suai kod dalam fail mengikut cara anda. Fail ini dilesenkan di bawah **[MIT](https://github.com/ZazerConer/radio-stream-malaysia/blob/master/LICENSE)** sila gunakan lesen ini jika anda perlukannya.
 
 <hr>
+<br>
 
 ### Laporkan isu
+
+<br>
 
 **Isu jika anda menghadapi masalah:**
 
@@ -69,10 +79,24 @@ Anda bebas mengubah suai kod dalam fail mengikut cara anda. Fail ini dilesenkan 
   - **URL**: (url audio)
   - **Slogan**: (tanda kata stesen radio)
 
-**Isu pengubahsuaian**
+**Isu pengubahsuaian:**
 
 Sekiranya anda melihat kesalahan seperti stesen radio tidak diletakan dengan `nama` sebenar, `logo` tidak sesuai, `url` audio bukan dari stesen radio yang sah atau apa-apa sahaja.
 Sila buat kenyataan anda beserta kesilapan yang perlu diperbaiki.
+
+<br>
+
+### Muat turun aplikasi (Android)
+
+<br>
+
+<a href="https://fastupload.io/2b6c57678796c3f2"><img src="https://img.shields.io/badge/Radio_Stream_Malaysia-APK-green" alt="Static Badge"></a>
+
+Kata laluan untuk mengakses muat turun fail.
+
+Password: **`zazerconer`**
+
+<br>
 
 ### Notis
 
